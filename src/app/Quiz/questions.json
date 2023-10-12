@@ -1,0 +1,52 @@
+{
+  "questions": [
+    {
+      "title": "Hva står HTML for?",
+      "answers": [
+        { "answer": "Hyper Text Markup Language", "correct": true },
+        { "answer": "High-Level Text Modeling Language"},
+        { "answer": "Home Tool Markup Language"},
+        { "answer": "Hyperlink and Text Management Language"}
+      ],
+      "helper": {
+        "text": "Forkortelsen HTML står for noe spesifikt relatert til websider og dokumentstruktur."
+      }
+    },
+    {
+      "title": "Hva er den riktige taggen for en overskrift av første nivå i HTML?",
+      "answers": [
+        { "answer": "<h1>", "correct": true},
+        { "answer": "<header>"},
+        { "answer": "<h6>"},
+        { "answer": "<heading1>"}
+      ],
+      "helper": {
+        "text": "Denne HTML-taggen brukes for den mest fremtredende overskriften på en webside."
+      }
+    },
+    {
+      "title": "Hva brukes <a> -taggen til i HTML?",
+      "answers": [
+        { "answer": "Å lage lister" },
+        { "answer": "Å inkludere bilde"},
+        { "answer": "Å lage skjemaer" },
+        { "answer": "Å lage hyperkoblinger", "correct": true}
+      ],
+      "helper": {
+        "text": "Denne HTML-taggen brukes til å opprette hyperkoblinger til andre websider eller ressurser."
+      }
+    },
+    {
+      "title": "Hva er den riktige måten å inkludere et bilde i HTML?",
+      "answers": [
+        { "answer": "<img src='bilde.jpg' alt='Mitt bilde'>", "correct": true},
+        { "answer": "<picture src='bilde.jpg' alt='Mitt bilde'>" },
+        { "answer": "<image href='bilde.jpg' text='Mitt bilde'>" },
+        { "answer": "<photo src='bilde.jpg' alt='Mitt bilde'>" }
+      ],
+      "helper": {
+        "text": "Dette er den riktige HTML-koden for å inkludere et bilde på en webside."
+      }
+    }
+  ]
+}
